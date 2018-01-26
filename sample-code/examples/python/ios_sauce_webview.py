@@ -13,7 +13,7 @@ from selenium.webdriver.common.keys import Keys
 app = 'http://appium.s3.amazonaws.com/WebViewApp6.0.app.zip'
 platforms = [{
         'platformName': 'iOS',
-        'platformVersion': '7.1',
+        'platformVersion': '11.1',
         'deviceName': 'iPhone Simulator',
         'appiumVersion': '1.3.4',
         'app': app

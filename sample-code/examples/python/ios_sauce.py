@@ -10,7 +10,7 @@ from appium import SauceTestCase, on_platforms
 
 platforms = [{
                 'platformName': 'iOS',
-                'platformVersion': '7.1',
+                'platformVersion': '11.1',
                 'deviceName': 'iPhone Simulator',
                 'app': 'http://appium.s3.amazonaws.com/TestApp6.0.app.zip',
                 'appiumVersion': '1.3.4'

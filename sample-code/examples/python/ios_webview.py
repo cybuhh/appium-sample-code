@@ -23,7 +23,7 @@ class WebViewIOSTests(unittest.TestCase):
                 'app': app,
                 'deviceName': 'iPhone Simulator',
                 'platformName': 'iOS',
-                'platformVersion': '7.1'
+                'platformVersion': '11.1'
             })
 
     def tearDown(self):

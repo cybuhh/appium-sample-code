@@ -17,7 +17,7 @@ class SimpleIOSTests(unittest.TestCase):
             desired_capabilities={
                 'app': app,
                 'platformName': 'iOS',
-                'platformVersion': '10.1',
+                'platformVersion': '11.1',
                 'deviceName': 'iPhone 6'
             })
 
